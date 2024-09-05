@@ -1,0 +1,72 @@
+# Ignore user-specific configuration and history files
+.anaconda/
+.bash_history
+.conda/
+.condarc
+.continuum/
+.gitconfig
+.ipython/
+.jupyter/
+.lesshst
+.matplotlib/
+.vscode/
+
+# Ignore common Windows user directories
+3D Objects/
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Tracing/
+Videos/
+
+# Ignore specific files
+BMI_Calculator/
+BetAfriq Spot Ads Quotation-1657184934.pdf
+NTUSER.DAT
+NTUSER.DAT{ae988cf2-9afb-11ed-8b00-fac23f7623ae}.TM.blf
+NTUSER.DAT{ae988cf2-9afb-11ed-8b00-fac23f7623ae}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{ae988cf2-9afb-11ed-8b00-fac23f7623ae}.TMContainer00000000000000000002.regtrans-ms
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+
+# Ignore project-specific files and directories
+ODBA/
+PycharmProjects/
+Python.ipynb
+Untitled-2.ipynb
+Untitled.ipynb
+Untitled1.ipynb
+anaconda3/
+dsc-data-serialization-lab/
+dsc-running-jupyter-locally-lab/
+simple_python_project/
+
+# Set default behavior to automatically normalize line endings.
+* text=auto
+
+# Explicitly declare text files you want to always be normalized and converted
+# to native line endings on checkout.
+*.c text
+*.h text
+
+# Declare files that will always have CRLF line endings on checkout.
+*.bat text eol=crlf
+
+# Declare files that will always have LF line endings on checkout.
+*.sh text eol=lf
+
+# Denote all files that are truly binary and should not be modified.
+*.png binary
+*.jpg binary
+.vscode/
