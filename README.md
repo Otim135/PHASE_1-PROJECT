@@ -3,7 +3,7 @@
 ## **Project Overview**
 This project aims to analyze aviation incidents and assess the risks associated with different aircraft types, weather conditions, and flight phases. The analysis focuses on identifying low-risk aircraft, understanding incident trends over time, and evaluating the impact of external factors such as weather and aircraft characteristics. The data used in this project includes details on aviation incidents such as fatalities, serious injuries, and aircraft specifications.
 
-The project follows the **Cross Industry Standard Process for Data Mining (CRISP-DM)** methodology to ensure a systematic and data-driven approach. The analysis includes univariate, bivariate, and multivariate analysis using Python to uncover trends and patterns in the dataset. Visualization tools like Matplotlib and Seaborn are employed to create insightful graphs and heatmaps for easier interpretation of the data.
+The project follows the **Cross Industry Standard Procedure for Data Mining (CRISP-DM)** methodology to ensure a systematic and data-driven approach. The analysis includes univariate, bivariate, and multivariate analysis using Python to uncover trends and patterns in the dataset. Visualization tools like Matplotlib and Seaborn are employed to create insightful graphs and heatmaps for easier interpretation of the data.
 
 ### **Key Objectives**:
 - **Identify Low-Risk Aircraft Types**: Determine which aircraft models have the lowest incident rates and severity of accidents.
