@@ -23,17 +23,27 @@ This project was developed using **Python 3.8**. All dependencies are managed us
 
 
 ### Visualizations
-1. **Aircraft Models with the Lowest Risk Profiles**
-   - [View Low-Risk Aircraft Types](https://public.tableau.com/app/profile/alfred.otieno/viz/IdentifyingLow-RiskAircraftTypes/IdentifyLow-RiskAircraftTypes?publish=yes)
 
-2. **Incident Trends Over Time**
-   - [View Incident Trends Over Time](https://public.tableau.com/app/profile/alfred.otieno/viz/TrendAnalysisOfIncidentsOverTime/TrendAnalysisofIncidentsoverTime?publish=yes)
+## Commit History
+Here’s a list of key commits made during the project development:
 
-3. **Impact of Flight Phases on Incident Severity**
-   - [View Impact of Flight Phases](https://public.tableau.com/app/profile/alfred.otieno/viz/ImpactOfFlightPhasesOnIncidents/AssessingtheImpactofFlightPhasesonIncidents?publish=yes)
+- `d0bd27d` - I've added links from Tableau for my viz on README file
+- `7f4ced4` - Add these images to the repo as required
+- `ad2f7fc` - Removed the Tableau file
+- `e2c9eeb` - Make the updates
+- `a1f7bb9` - Updated changes
+- `aaeef17` - Update
+- `fb7eae1` - Updated my presentation
+- `26373c4` - Update
+- `d2160a2` - Enact the necessary changes
+- `0a4ad93` - More updates have been made. I introduced my presentation
+- `56d58be` - Update accordingly
+- `390d309` - Updated my data once more
+- `096992e` - Updated the README.md file
+- `94145ff` - Add README.md file
+- `71df16c` - I've modified contents of my project
+- `2d75a04` - I've updated my project
 
-4. **Role of Weather Conditions in Incidents**
-   - [View Weather Conditions and Severity](https://public.tableau.com/app/profile/alfred.otieno/viz/ImpactOfFlightPhasesOnIncidents/InvestigatingtheRoleofWeatherConditionsinIncidents?publish=yes)
 
 ## Conclusion
 - Low-risk aircraft types like the **Aerospatiale** should be prioritized.
