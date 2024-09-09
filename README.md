@@ -11,7 +11,6 @@ The project follows the **Cross Industry Standard Procedure for Data Mining (CRI
 - **Assess the Impact of Flight Phases**: Evaluate which flight phases (e.g., takeoff, landing) are associated with higher risks and incidents.
 - **Investigate the Role of Weather Conditions**: Analyze how weather conditions impact the likelihood and severity of aviation incidents.
 
----
 
 ## **Python Version**
 This project was developed using **Python 3.8**. All dependencies are managed using `pip` .
@@ -21,5 +20,26 @@ This project was developed using **Python 3.8**. All dependencies are managed us
 - **matplotlib**: For creating visualizations.
 - **seaborn**: For advanced statistical visualizations.
 - **numpy**: For numerical computations.
+
+
+### Visualizations
+1. **Aircraft Models with the Lowest Risk Profiles**
+   - [View Low-Risk Aircraft Types](https://public.tableau.com/app/profile/alfred.otieno/viz/IdentifyingLow-RiskAircraftTypes/IdentifyLow-RiskAircraftTypes?publish=yes)
+
+2. **Incident Trends Over Time**
+   - [View Incident Trends Over Time](https://public.tableau.com/app/profile/alfred.otieno/viz/TrendAnalysisOfIncidentsOverTime/TrendAnalysisofIncidentsoverTime?publish=yes)
+
+3. **Impact of Flight Phases on Incident Severity**
+   - [View Impact of Flight Phases](https://public.tableau.com/app/profile/alfred.otieno/viz/ImpactOfFlightPhasesOnIncidents/AssessingtheImpactofFlightPhasesonIncidents?publish=yes)
+
+4. **Role of Weather Conditions in Incidents**
+   - [View Weather Conditions and Severity](https://public.tableau.com/app/profile/alfred.otieno/viz/ImpactOfFlightPhasesOnIncidents/InvestigatingtheRoleofWeatherConditionsinIncidents?publish=yes)
+
+## Conclusion
+- Low-risk aircraft types like the **Aerospatiale** should be prioritized.
+- Takeoff and landing are the most dangerous phases of flight.
+- IMC weather conditions are linked to higher fatality rates, indicating a need for more focused training for pilots.
+
+
 
 
